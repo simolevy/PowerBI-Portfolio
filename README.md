@@ -2,6 +2,7 @@
 A portfolio of my PowerBI dashboards, reports and projects.
 
 **About Me**
+
 I am a recent graduate with past experience in software engineering and data analysis. I have began
 to utilize Power BI as a tool to create data insights and visualizations. Below are a few of the projects I have been
 working on lately!
